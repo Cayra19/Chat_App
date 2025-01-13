@@ -50,7 +50,13 @@ Integrated Development Environment (IDE) such as IntelliJ IDEA, Eclipse, or NetB
 
 **Steps**
 
-How to run:
+Clone the repository:
+
+git clone https://github.com/Cayra19/ChatApp.git
+
+Navigate to the project directory:
+
+cd chatapp
 
 Open the project in your preferred IDE.
 
@@ -71,6 +77,20 @@ Launch the ChatApp.java file on each user’s machine.
 Enter the server IP address and port number to connect.
 
 Begin chatting with other connected users.
+
+**Contributing**
+
+I welcome contributions to improve ChatApp! To contribute:
+
+Fork the repository.
+
+Create a feature branch:
+
+git checkout -b feature/your-feature-name
+
+Commit your changes and push them to your branch.
+
+Submit a pull request for review.
 
 **Acknowledgements**
 
