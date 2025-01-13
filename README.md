@@ -62,11 +62,11 @@ Open the project in your preferred IDE.
 
 First, compile and run the Server.java file to start the server:
 
-javac GUIServer.java java GUIServer
+to compile:- javac GUIServer.java <br/> to run:- java GUIServer
 
 Then compile and run the Client.java file to launch the client:
 
-javac ChatApp.java java ChatApp
+to compile:- javac ChatApp.java <br/> to run:- java ChatApp
 
 **Usage**
 
